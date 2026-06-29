@@ -182,6 +182,8 @@ The project revealed significant differences in unemployment rates across states
     <img width="1732" height="557" alt="image" src="https://github.com/user-attachments/assets/5b8c8aad-7ff3-49c8-8234-546f7a687e38" />
     <img width="1702" height="962" alt="image" src="https://github.com/user-attachments/assets/002f3cb5-ac59-46bd-a7da-05ec165ec6eb" />
     <img width="1012" height="712" alt="image" src="https://github.com/user-attachments/assets/77df9be6-4b8f-4eea-b1f4-b82c0a66985b" />
+    <img width="1357" height="642" alt="image" src="https://github.com/user-attachments/assets/2cbbced3-a56c-48b1-8def-09e62f7948b3" />
+
 
 
 
